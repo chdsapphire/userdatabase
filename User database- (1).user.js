@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         User database:
 // @namespace    http://tampermonkey.net/
-// @version      0.02
+// @version      0.03
 // @description  try to take over the world!
 // @author       You
 // @match        http://www1.charmdate.com/clagt/livechat/index.php?action=**
@@ -16,8 +16,8 @@
 // @match        http://www4.charmdate.com/clagt/livechat/index.php?action=pending**
 // @match        http://www5.charmdate.com/clagt/livechat/index.php?action=pending**
 // @match        http://www6.charmdate.com/clagt/livechat/index.php?action=pending**
-// @updateURL    https://github.com/chdsapphire/userdatabase/blob/main/User%20database-%20(1).user.js?raw=true
-// @downloadURL  https://github.com/chdsapphire/userdatabase/blob/main/User%20database-%20(1).user.js?raw=true
+// @updateURL    https://github.com/chdsapphire/userdatabase/raw/main/User%20database-%20(1).user.js
+// @downloadURL  https://github.com/chdsapphire/userdatabase/raw/main/User%20database-%20(1).user.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=charmdate.com
 // @grant        none
 // ==/UserScript==
