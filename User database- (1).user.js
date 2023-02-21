@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         User database:
 // @namespace    http://tampermonkey.net/
-// @version      0.05
+// @version      0.06
 // @description  try to take over the world!
 // @author       You
 // @match        http://www1.charmdate.com/clagt/livechat/index.php?action=**
